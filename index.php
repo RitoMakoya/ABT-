@@ -34,7 +34,7 @@
         }
 
         button {
-            background-color: #007bff; /* Blue color for button */
+            background-color: #007bff; 
             color: #fff;
             border: none;
             padding: 10px 20px;
@@ -43,7 +43,7 @@
         }
 
         button:hover {
-            background-color: #0056b3; /* Darker blue for hover */
+            background-color: #0056b3; 
         }
     </style>
 </head>
